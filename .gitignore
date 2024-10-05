@@ -6,4 +6,5 @@ tmp/
 temp/
 
 .env
-backend/crossed-data
+
+crossed-data
